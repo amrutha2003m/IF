@@ -6,7 +6,7 @@ then
 echo "a is greater"
 elif [ $b -ge $a ]
 then
-echo "b is graeter"
+echo "b is greater"
 else
 echo "EQUAL"
 fi
